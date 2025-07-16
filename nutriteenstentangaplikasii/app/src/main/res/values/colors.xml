@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#A9A9A9</color>
+    <color name="main_green">#022B3D</color>
+    <color name="secondary_green">#083B4E</color>
+    <color name="red">#F6434F</color>
+    <color name="yellow">#FDB040</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Blue">#5B6BC0</color>
+    <color name="Hitam">#1A1A1A</color>
+    <color name="indigo">#3F51B5</color>
+</resources>
